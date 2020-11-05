@@ -21,7 +21,7 @@ spring:
     stream:
       rocketmq:
         binder:
-          name-server: 81.69.249.25:9876
+          name-server: 127.0.0.1:9876
 #        bindings:
 #          output:
 #            producer:
